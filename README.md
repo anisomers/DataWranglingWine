@@ -14,5 +14,3 @@ Recommended:
 - 
 
 Datasets considered: 
-https://archive.ics.uci.edu/dataset/186/wine+quality (no data on wine names)
-https://archive.ics.uci.edu/dataset/109/wine 
