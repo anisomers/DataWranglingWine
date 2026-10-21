@@ -1,0 +1,27 @@
+---
+title: "Aim1"
+author: "Zoe Plumridge , . . . "
+date: "2026-10-21"
+output: pdf_document
+---
+
+# Wine - Aim 1
+
+## Setup
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Install packages
+```{r}
+# use carly's package installer function
+#install.packages()
+#library()
+```
+
+```{r}
+# import csv
+# save to raw data
+# 
+```
+
